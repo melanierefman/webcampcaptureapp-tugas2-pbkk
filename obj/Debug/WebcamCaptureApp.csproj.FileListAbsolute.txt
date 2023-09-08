@@ -1,0 +1,17 @@
+C:\Users\melan\source\repos\WebcamCaptureApp\WebcamCaptureApp\bin\Debug\WebcamCaptureApp.exe.config
+C:\Users\melan\source\repos\WebcamCaptureApp\WebcamCaptureApp\bin\Debug\WebcamCaptureApp.exe
+C:\Users\melan\source\repos\WebcamCaptureApp\WebcamCaptureApp\bin\Debug\WebcamCaptureApp.pdb
+C:\Users\melan\source\repos\WebcamCaptureApp\WebcamCaptureApp\bin\Debug\AForge.dll
+C:\Users\melan\source\repos\WebcamCaptureApp\WebcamCaptureApp\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\melan\source\repos\WebcamCaptureApp\WebcamCaptureApp\bin\Debug\AForge.Video.dll
+C:\Users\melan\source\repos\WebcamCaptureApp\WebcamCaptureApp\bin\Debug\AForge.xml
+C:\Users\melan\source\repos\WebcamCaptureApp\WebcamCaptureApp\bin\Debug\AForge.Video.xml
+C:\Users\melan\source\repos\WebcamCaptureApp\WebcamCaptureApp\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\melan\source\repos\WebcamCaptureApp\WebcamCaptureApp\obj\Debug\WebcamCaptureApp.csproj.AssemblyReference.cache
+C:\Users\melan\source\repos\WebcamCaptureApp\WebcamCaptureApp\obj\Debug\WebcamCaptureApp.Form1.resources
+C:\Users\melan\source\repos\WebcamCaptureApp\WebcamCaptureApp\obj\Debug\WebcamCaptureApp.Properties.Resources.resources
+C:\Users\melan\source\repos\WebcamCaptureApp\WebcamCaptureApp\obj\Debug\WebcamCaptureApp.csproj.GenerateResource.cache
+C:\Users\melan\source\repos\WebcamCaptureApp\WebcamCaptureApp\obj\Debug\WebcamCaptureApp.csproj.CoreCompileInputs.cache
+C:\Users\melan\source\repos\WebcamCaptureApp\WebcamCaptureApp\obj\Debug\WebcamCaptureApp.csproj.CopyComplete
+C:\Users\melan\source\repos\WebcamCaptureApp\WebcamCaptureApp\obj\Debug\WebcamCaptureApp.exe
+C:\Users\melan\source\repos\WebcamCaptureApp\WebcamCaptureApp\obj\Debug\WebcamCaptureApp.pdb
